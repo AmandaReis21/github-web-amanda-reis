@@ -1,6 +1,6 @@
-# github-web-amanda-reis
-#### Sobre
+# Print a Print
+###### Sobre
 ***
 Atividade Prática GitHub Web
-#### Tecnologias
+###### Tecnologias
 ***
