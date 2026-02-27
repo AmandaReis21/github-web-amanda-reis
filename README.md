@@ -1,6 +1,6 @@
 # Print a Print
-###### Sobre
+## Sobre
 ***
 Atividade Prática GitHub Web
-###### Tecnologias
+## Tecnologias
 ***
